@@ -1,0 +1,107 @@
+.summer_sale {
+    color: #8E26C0;
+    position: absolute;
+    width: 614px;
+    height: 84px;
+    left: 35%;
+    font-size: 22px;
+    text-transform: capitalize;
+    line-height: 84px;
+}
+
+.Chance {
+    background: #FFE8E8;
+    top: 137px;
+    padding: 1px 10px;
+    gap: 10px;
+    position: absolute;
+    width: 303px;
+    height: 60px;
+    left: 32px;
+}
+
+#Dont-Miss {
+    color: red;
+}
+
+.image {
+    position: absolute;
+    width: 556px;
+    height: 347px;
+    left: 32px;
+    top: 700px;
+    background: url(image.png);
+}
+
+#Hurry {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 24px 40px;
+    gap: 10px;
+    position: absolute;
+    width: 1069px;
+    height: 86px;
+    left: 32px;
+    top: 540px;
+    border: 2px solid #3538CD;
+}
+
+#Advantage { 
+    border-top: 2px solid #00C76E;
+    color: #85647B;
+    border-bottom: 2px solid #7F56D9;
+    color: #85647B;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 24px 40px;
+    gap: 10px;
+    position: absolute;
+    left: 32px;
+    top: 200px;
+    border-left: 4px solid #C11574;
+    color: #85647B;
+    border-right: 6px solid #0055FF;
+    width: 943px;
+    height: 96px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    color: #85647B;
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+
+.The_end {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 24px 40px;
+    border: solid blue;
+    gap: 10px;
+    position: absolute;
+    width: 1023px;
+    height: 133px;
+    left: 32px;
+    top: 380px;
+    background: #FFE8E8;
+    width: 943px;
+    height: 85px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #414651;
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
