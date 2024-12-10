@@ -1,15 +1,14 @@
 #last {
     display: inline-block;
     text-align: center;
-    width: 1289px;
+    width: 1503px;
     height: 1243px;
 }
 
 #summerSale {
     display: inline-block;
     margin-bottom: 32px;
-    margin-left: 208px;
-    margin-right: 200px;
+    margin-left: center;
     color: #8E26C0;
     font-family: "JetBrains Mono";
     font-size: 64px;
